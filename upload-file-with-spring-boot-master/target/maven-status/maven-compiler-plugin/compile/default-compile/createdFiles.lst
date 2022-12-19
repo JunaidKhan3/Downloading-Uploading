@@ -1,0 +1,11 @@
+com\ultimate\model\FileResponse.class
+com\ultimate\service\FileSystemStorageService.class
+com\ultimate\controller\FileController.class
+com\ultimate\config\SwaggerConfig.class
+com\ultimate\exception\FileNotFoundException.class
+com\ultimate\service\IFileSytemStorage.class
+com\ultimate\exception\FileStorageException.class
+com\ultimate\properties\FileUploadProperties.class
+com\ultimate\exception\FileExceptionAdvice.class
+com\ultimate\DownuploadApplication.class
+com\ultimate\model\ResponseError.class

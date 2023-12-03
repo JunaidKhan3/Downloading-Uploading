@@ -59,5 +59,6 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
+        <finalName>ultimateDwdAndUpd</finalName>
     </build> 
 </project>

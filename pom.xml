@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ultimate</groupId>
-    <artifactId>ultimateDwdAndUpd</artifactId>
+    <artifactId>ultimatedwdandupd</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ultimateDwdAndUpd</name>
+    <name>ultimatedwdandupd</name>
     <description>Download and upload files with Spring Boot</description>
 
     <properties>
@@ -59,6 +59,6 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-        <finalName>ultimateDwdAndUpd</finalName>
+        <finalName>ultimatedwdandupd</finalName>
     </build> 
 </project>

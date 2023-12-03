@@ -12,7 +12,6 @@ public class DownuploadApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DownuploadApplication.class, args);
-        
     }
 
 }
